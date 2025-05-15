@@ -1,0 +1,5 @@
+node_modules
+.env
+localhost.crt.pem
+localhost+1-key.pem
+severjsbackup.js
